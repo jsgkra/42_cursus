@@ -12,9 +12,7 @@ https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 
 ![42galaxy](https://user-images.githubusercontent.com/106957229/172166532-6092d0bc-f0b4-4e58-bb59-05e00c85431b.png)
 
-Cercles intérieurs
-
-Tronc commun contenant tous les projets à rendre et examen à réussir avant de pouvoir postuler pour des stages ou partir en échange sur un campus du réseau 42.
+Cercles intérieurs : tronc commun contenant tous les projets à achever et les examens à réussir avant de pouvoir faire des demandes de stages ou partir en échange sur un campus du réseau 42.
 
 Périphérie du cercle extérieur : collection de projets permettant aux étudiants d'approfondir leurs connaissances.
 
