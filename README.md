@@ -34,5 +34,5 @@ Périphérie du cercle extérieur : collection de projets permettant aux étudi
 | 05     | ft_container    | C++        | Codage de certains containers C++     |
 | 05     | inception       | Docker, Network & system administration      | Introduction à Docker|
 | 05     | webserv         | C++, Unix, Network & system administration     | Codage de notre propre serveur HTTP     |
-| 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL | Création d'un site web "Pong game" permettant à des joueurs de s'affronter en ligne
+| 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL | Création d'un site web permettant à des joueurs de s'affronter en ligne lors de parties de "Pong"
 
