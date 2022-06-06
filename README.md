@@ -14,7 +14,7 @@ https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 
 Cercles intérieurs : tronc commun contenant tous les projets à achever et les examens à réussir avant d'être autorisé.e à faire une demande de stage dans une entreprise de notre choix ou un  échange sur un des campus du réseau 42.
 
-Périphérie du cercle extérieur : collection de projets permettant aux étudiants d'approfondir leurs connaissances.
+Périphérie du cercle extérieur : collection de projets permettant aux étudiant.e.s d'approfondir leurs connaissances.
 
 
 ### Les projets du cercle intérieur
