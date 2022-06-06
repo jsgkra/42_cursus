@@ -9,19 +9,20 @@ https://42.fr/
 https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 
 ## Le cursus
- 
-42 cursus includes two groups of projects: the first one being known as "inner circle" and the second one, "outer treks".
 
-- The inner circle is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+![42galaxy](https://user-images.githubusercontent.com/106957229/172166532-6092d0bc-f0b4-4e58-bb59-05e00c85431b.png)
 
-- The outer treks is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
+Cercles intérieurs : tronc commun contenant tous les projets obligatoires pour atteindre le niveau 7, niveau mininum à atteindre avant de pouvoir postuler pour des stages ou échange dans le réseau 42.
 
-### Inner Circle (basic curriculum)
+Projets en périphérie du dernier cercle : collection de projets permettant aux étudiants d'approfondir leurs connaissances.
 
-| Circle | Project         | Technology | Description |
-| :------| :-------        | :----------| :-----------|
-| 00     | Libft           | C        | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.|
-| 01     | ft_printf       | C        | Recode the printf function.         |
+
+### Cercle intérieur
+
+| Cercle | Projet          | Technologie | Description |
+| :------| :-------        | :---------- | :-----------|
+| 00     | Libft           | C           | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.|
+| 01     | ft_printf       | C           | Recode the printf function.         |
 | 01     | Born2beroot     | VM, Network & system administration     |Create a machine in VirtualBox under specific instructions. Then, at the end of this project, we are able to set up our own operating system while implementing strict rules.      |
 | 01     | get_next_line   | C        | Coding a function that returns one line at a time from a text file.       |
 | 02     | pipex           | C        | Recoding and discover in detail UNIX mechanism - pipe.        |
