@@ -1,4 +1,4 @@
-# Ecole 42
+# Ecole 42 en deux mots
 
 42, c’est une formation en informatique. Au programme une approche par projets pour progresser et développer les compétences techniques et humaines recherchées sur le marché du travail.
 
