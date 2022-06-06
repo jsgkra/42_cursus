@@ -5,7 +5,6 @@
 Plus d'informations sur :
 
 https://42.fr/
-
 https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 
 ## Le cursus
@@ -13,6 +12,7 @@ https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 ![42galaxy](https://user-images.githubusercontent.com/106957229/172166532-6092d0bc-f0b4-4e58-bb59-05e00c85431b.png)
 
 Cercles intérieurs : tronc commun contenant tous les projets à rendre et examen à réussir avant de pouvoir postuler pour des stages ou partir en échange sur un autre campus du réseau 42.
+
 Projets en périphérie du dernier cercle : collection de projets permettant aux étudiants d'approfondir leurs connaissances.
 
 
