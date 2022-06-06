@@ -16,7 +16,7 @@ Cercles intérieurs : tronc commun contenant tous les projets à rendre et exam
 Périphérie du cercle extérieur : collection de projets permettant aux étudiants d'approfondir leurs connaissances.
 
 
-### Cercle intérieur
+### Les projets du cercle intérieur
 
 | Cercle | Projet          | Technologie | Description |
 | :------| :-------        | :---------- | :-----------|
