@@ -24,7 +24,7 @@ Projets en périphérie du dernier cercle : collection de projets permettant au
 | 00     | Libft           | C           | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.|
 | 01     | ft_printf       | C           | Recode the printf function.         |
 | 01     | Born2beroot     | VM, Network & system administration     |Create a machine in VirtualBox under specific instructions. Then, at the end of this project, we are able to set up our own operating system while implementing strict rules.      |
-| 01     | get_next_line   | C        | Coding a function that returns one line at a time from a text file.       |
+| 01     | get_next_line   | C           | Coding a function that returns one line at a time from a text file.       |
 | 02     | pipex           | C        | Recoding and discover in detail UNIX mechanism - pipe.        |
 | 02     | so_long         | C        | Create a small 2D game with minilibx.|
 | 02     | push_swap       | C        | Sort data on a stack, with specific rules, using the lowest possible number of actions.        |
