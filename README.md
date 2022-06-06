@@ -1,6 +1,6 @@
 # Ecole 42 en deux mots
 
-42, c’est une formation en informatique. Au programme une approche par projets pour progresser et développer les compétences techniques, humaines et sociales recherchées sur le marché du travail.
+42, c’est une formation en développement logiciel. Au programme, une approche par projets, un apprentissage en peer-to-peer et un cursus gamifié encourageant le développement des compétences techniques, humaines et sociales recherchées sur le marché du travail.
 
 Plus d'informations sur :
 
