@@ -2,7 +2,7 @@
 
 42, c’est une formation en développement logiciel. Au programme, une approche par projets, un apprentissage "peer-to-peer" et un cursus "gamifié". Durant la première année de tronc commun, les étudiants ont l'occasion d'acquérir les compétences techniques, humaines et sociales recherchées sur le marché du travail.
 
-Plus d'informations sur :
+Plus d'informations à :
 
 https://42.fr/
 
