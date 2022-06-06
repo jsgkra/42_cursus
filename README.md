@@ -12,8 +12,7 @@ https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 
 ![42galaxy](https://user-images.githubusercontent.com/106957229/172166532-6092d0bc-f0b4-4e58-bb59-05e00c85431b.png)
 
-Cercles intérieurs : tronc commun contenant tous les projets obligatoires pour atteindre le niveau 7, niveau mininum à atteindre avant de pouvoir postuler pour des stages ou échange dans le réseau 42.
-
+Cercles intérieurs : tronc commun contenant tous les projets à rendre et examen à réussir avant de pouvoir postuler pour des stages ou partir en échange sur un autre campus du réseau 42.
 Projets en périphérie du dernier cercle : collection de projets permettant aux étudiants d'approfondir leurs connaissances.
 
 
@@ -21,24 +20,19 @@ Projets en périphérie du dernier cercle : collection de projets permettant au
 
 | Cercle | Projet          | Technologie | Description |
 | :------| :-------        | :---------- | :-----------|
-| 00     | Libft           | C           | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.|
-| 01     | ft_printf       | C           | Recode the printf function.         |
-| 01     | Born2beroot     | VM, Network & system administration     |Create a machine in VirtualBox under specific instructions. Then, at the end of this project, we are able to set up our own operating system while implementing strict rules.      |
-| 01     | get_next_line   | C           | Coding a function that returns one line at a time from a text file.       |
-| 02     | pipex           | C        | Recoding and discover in detail UNIX mechanism - pipe.        |
-| 02     | so_long         | C        | Create a small 2D game with minilibx.|
-| 02     | push_swap       | C        | Sort data on a stack, with specific rules, using the lowest possible number of actions.        |
-| 03     | minishell       | C        | Create a simple shell.       |
-| 03     | Philosophers    | C        | An introduction to threading and processes, and how to work on the same memory space.    |
-| 04     | cub3d           | C, Computer Graphics        | Inspired by the world-famous eponymous 90's game, which was the first FPS ever. This project will enable students to explore ray-casting. The goal will be to make a dynamic view inside a maze, in which the player will have to find its way.         |
-| 04     | NetPractice     | Network & system administration     | This project aims to introduce students to the network through practical cases.       |
-| 04     | CPP Module(9)   | C++        |   Understand the specificities of C++ compared to C. It's time to dive into object-oriented programming!      |
-| 05     | ft_container    | C++        |   The many containers of C++ have various interests. In order to understand them well, we will re-implement them!      |
-| 05     | Inception       | Docker, Network & system administration      |  This project aims to deepen our knowledge by making us use Docker. We will virtualise several Docker images by creating them in our new personal virtual machine.        |
-| 05     | webserv         | C++, Unix, Network & system administration        | Write our own HTTP server. We have to follow the HTTP RFC and will therefore be able to test with a real web browser.       |
-| 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL | This project consists in creating a website to participate in a competition of the famous game Pong !      |
-
-
-
-This repository contains the projects of the inner circle that I finished.
+| 00     | Libft           | C           | Codage de certaines fonctions de la librairie standard C     |
+| 01     | ft_printf       | C           | Codage de certaines fonctionnalités de printf      |
+| 01     | Born2beroot     | VM, Network & system administration | Création d'une VM à l'aide de VirtualBox, installation de Debian, création d'un serveur Wordpress      |
+| 02     | minitalk        | C        | Codage d'un script client et d'un script serveur devant échanger une chaîne de caractère via les signaux SIGUSR et la fonction signal     |
+| 02     | so_long         | C        | Codage d'un mini-jeu 2D à l'aide de la minilibx      |
+| 02     | push_swap       | C        | Codage d'un programme de tri de nombres      |
+| 03     | minishell       | C        | Codage d'un shell      |
+| 03     | Philosophers    | C        | Introduction aux concepts de threads et de processus      |
+| 04     | cub3d           | C, Computer Graphics     | Codage d'un jeu vidéo en vue subjective inspiré par Doom. Introduction au Raycasting     |
+| 04     | NetPractice     | Network & system administration      | Exercice d'introduction à l'administration réseau       |
+| 04     | CPP Module(9)   | C++        | Modules d'introduction au C++     |
+| 05     | ft_container    | C++        | Codage de certains containers C++     |
+| 05     | Inception       | Docker, Network & system administration      | Introduction à Docker|
+| 05     | webserv         | C++, Unix, Network & system administration     | Codage de notre propre serveur HTTP     |
+| 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL | Création d'un site web "Pong game" permettant à des joueurs de s'affronter en ligne
 
