@@ -23,7 +23,7 @@ Projets en périphérie du dernier cercle : collection de projets permettant au
 | 00     | Libft           | C           | Codage de certaines fonctions de la librairie standard C     |
 | 01     | ft_printf       | C           | Codage de certaines fonctionnalités de printf      |
 | 01     | Born2beroot     | VM, Network & system administration | Création d'une VM à l'aide de VirtualBox, installation de Debian, création d'un serveur Wordpress      |
-| 02     | minitalk        | C        | Codage d'un script client et d'un script serveur devant échanger une chaîne de caractère via les signaux SIGUSR et la fonction signal     |
+| 02     | minitalk        | C        | Codage d'un script client et d'un script serveur devant échanger une chaîne de caractères via les signaux SIGUSR et la fonction signal     |
 | 02     | so_long         | C        | Codage d'un mini-jeu 2D à l'aide de la minilibx      |
 | 02     | push_swap       | C        | Codage d'un programme de tri de nombres      |
 | 03     | minishell       | C        | Codage d'un shell      |
