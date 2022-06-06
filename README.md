@@ -20,19 +20,19 @@ Projets en périphérie du dernier cercle : collection de projets permettant au
 
 | Cercle | Projet          | Technologie | Description |
 | :------| :-------        | :---------- | :-----------|
-| 00     | Libft           | C           | Codage de certaines fonctions de la librairie standard C     |
+| 00     | libft           | C           | Codage de certaines fonctions de la librairie standard C     |
 | 01     | ft_printf       | C           | Codage de certaines fonctionnalités de printf      |
-| 01     | Born2beroot     | VM, Network & system administration | Création d'une VM à l'aide de VirtualBox, installation de Debian, création d'un serveur Wordpress      |
+| 01     | born2beroot     | VM, Network & system administration | Création d'une VM à l'aide de VirtualBox, installation de Debian, création d'un serveur Wordpress      |
 | 02     | minitalk        | C        | Codage d'un script client et d'un script serveur devant échanger une chaîne de caractères via les signaux SIGUSR et la fonction signal     |
 | 02     | so_long         | C        | Codage d'un mini-jeu 2D à l'aide de la minilibx      |
 | 02     | push_swap       | C        | Codage d'un programme de tri de nombres      |
 | 03     | minishell       | C        | Codage d'un shell      |
-| 03     | Philosophers    | C        | Introduction aux concepts de threads et de processus      |
+| 03     | philosophers    | C        | Introduction aux concepts de threads et de processus      |
 | 04     | cub3d           | C, Computer Graphics     | Codage d'un jeu vidéo en vue subjective inspiré par Doom. Introduction au Raycasting     |
 | 04     | NetPractice     | Network & system administration      | Exercice d'introduction à l'administration réseau       |
 | 04     | CPP Module(9)   | C++        | Modules d'introduction au C++     |
 | 05     | ft_container    | C++        | Codage de certains containers C++     |
-| 05     | Inception       | Docker, Network & system administration      | Introduction à Docker|
+| 05     | inception       | Docker, Network & system administration      | Introduction à Docker|
 | 05     | webserv         | C++, Unix, Network & system administration     | Codage de notre propre serveur HTTP     |
 | 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL | Création d'un site web "Pong game" permettant à des joueurs de s'affronter en ligne
 
