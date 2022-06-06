@@ -1,6 +1,6 @@
 # L'école 42 en quelques mots
 
-42, c’est une formation en développement logiciel. Au programme, une approche par projets, un apprentissage en peer-to-peer et un cursus "gamifié". Durant la première année de tronc commun, les étudiants ont l'occasion de développer de manière autonome les compétences techniques, humaines et sociales recherchées sur le marché du travail.
+42, c’est une formation en développement logiciel. Au programme, une approche par projets, un apprentissage "peer-to-peer" et un cursus "gamifié". Durant la première année de tronc commun, les étudiants ont l'occasion de développer de manière autonome les compétences techniques, humaines et sociales recherchées sur le marché du travail.
 
 Plus d'informations sur :
 
