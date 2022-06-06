@@ -29,7 +29,7 @@ Périphérie du cercle extérieur : collection de projets permettant aux étudi
 | 02     | push_swap       | C        | Codage d'un programme de tri de nombres      |
 | 03     | minishell       | C        | Codage d'un shell      |
 | 03     | philosophers    | C        | Introduction aux concepts de threads et de processus      |
-| 04     | cub3d           | C, Computer Graphics     | Codage d'un jeu vidéo en vue subjective. Introduction au Raycasting     |
+| 04     | cub3d           | C, Computer Graphics     | Codage d'un jeu vidéo en vue subjective, introduction au Raycasting     |
 | 04     | NetPractice     | Network & system administration      | Exercice d'introduction à l'administration réseau       |
 | 04     | CPP Module(9)   | C++        | Modules d'introduction au C++     |
 | 05     | ft_container    | C++        | Codage de certains containers C++     |
