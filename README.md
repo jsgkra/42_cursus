@@ -1,6 +1,6 @@
 # L'école 42 en quelques mots
 
-42, c’est une formation en développement logiciel. Au programme, une approche par projet, un apprentissage "peer-to-peer" et un cursus "gamifié". Durant la première année de tronc commun, les étudiants ont l'occasion d'acquérir les compétences techniques et humaines recherchées sur le marché du travail.
+42, c’est une formation en développement logiciel. Au programme, une approche par projet, un apprentissage "peer-to-peer" et un cursus "gamifié".
 
 Plus d'informations à :
 
@@ -12,9 +12,9 @@ https://fr.wikipedia.org/wiki/42_(%C3%A9coles)
 
 ![42galaxy](https://user-images.githubusercontent.com/106957229/172166532-6092d0bc-f0b4-4e58-bb59-05e00c85431b.png)
 
-Cercles intérieurs        Tronc commun contenant tous les projets à achever et les examens à réussir avant d'être autorisé.e à faire une demande de stage dans                      une entreprise de notre choix ou un échange sur un des campus du réseau 42.
+Cercles intérieurs : Tronc commun contenant tous les projets à achever et les examens à réussir avant d'être autorisé.e à faire une demande de stage dans une entreprise de notre choix ou un échange sur un des campus du réseau 42.
 
-Périphérie du cercle      Collection de projets permettant aux étudiant.e.s d'approfondir leurs connaissances.
+Périphérie du cercle : Collection de projets permettant aux étudiant.e.s d'approfondir leurs connaissances.
 
 
 ### Les projets du cercle intérieur
